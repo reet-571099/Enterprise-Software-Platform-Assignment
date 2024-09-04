@@ -1,4 +1,4 @@
-package com.example.World;
+package com.example.Hello.service;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class WorldController {
 
     @GetMapping("/world")
-    public String sayHello() {
+    public String sayWorld() {
         return "World";
     }
 }
