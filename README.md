@@ -4,7 +4,7 @@
 
 ## 
 
-1\.[Setting Up the Development Environment](\#setting-up-the-development-environment)
+1.[Setting Up the Development Environment](#setting-up-the-development-environment)
 
 2\.[Creating the Microservices](\#creating-the-microservices)
 
@@ -26,7 +26,7 @@ World Service Docker \- [https://hub.docker.com/repository/docker/reetkhanchanda
 
 ## 
 
-## **Setting Up the Development Environment** {#setting-up-the-development-environment}
+## **Setting Up the Development Environment** 
 
 ### **Choose a Programming Language and Framework**
 
