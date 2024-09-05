@@ -95,8 +95,9 @@ Test services :
 ![][image11]
 
 My Docker Images can be found here : 
-[Hello Service : ](https://hub.docker.com/repository/docker/reetkhanchandani/hello-service/general)
-[World Service : ](https://hub.docker.com/repository/docker/reetkhanchandani/world-service/general)
+1. [Hello Service ](https://hub.docker.com/repository/docker/reetkhanchandani/hello-service/general)
+
+2. [World Service ](https://hub.docker.com/repository/docker/reetkhanchandani/world-service/general)
 
 ## **Deploying the Application on Kubernetes** {#deploying-the-application-on-kubernetes}
 
