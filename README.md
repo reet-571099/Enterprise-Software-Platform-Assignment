@@ -94,7 +94,9 @@ Test services :
 
 ![][image11]
 
-[Docker hub registry](https://hub.docker.com/repositories/reetkhanchandani)
+My Docker Images can be found here : 
+[Hello Service : ](https://hub.docker.com/repository/docker/reetkhanchandani/hello-service/general)
+[World Service : ](https://hub.docker.com/repository/docker/reetkhanchandani/world-service/general)
 
 ## **Deploying the Application on Kubernetes** {#deploying-the-application-on-kubernetes}
 
