@@ -58,7 +58,7 @@ Java with Spring Boot
 * **Dependencies:**  
   * **Spring Web**
 
-![hello-1](images/image_1 .png)
+![hello-1](images/img1.png)
 
 
 2.Click **Generate** to download a ZIP file of the project.
