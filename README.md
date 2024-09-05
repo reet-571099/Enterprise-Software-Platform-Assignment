@@ -6,13 +6,13 @@
 
 1.[Setting Up the Development Environment](#setting-up-the-development-environment)
 
-2\.[Creating the Microservices](\#creating-the-microservices)
+2.[Creating the Microservices](#creating-the-microservices)
 
-3\.[Containerizing the Microservices with Docker](\#containerizing-the-microservices-with-docker)
+3.[Containerizing the Microservices with Docker](#containerizing-the-microservices-with-docker)
 
-4\.[Deploying the Application on Kubernetes](\#deploying-the-application-on-kubernetes)
+4.[Deploying the Application on Kubernetes](#deploying-the-application-on-kubernetes)
 
-5\.[Testing and Integration](\#testing-and-integration)
+5.[Testing and Integration](#testing-and-integration)
 
 
 ## 
@@ -40,7 +40,7 @@ Java with Spring Boot
    Docker   
    Minikube 
 
-## **Creating the Microservices** {#creating-the-microservices}
+## **Creating the Microservices** 
 
 1.Go to [Spring Initializr](https://start.spring.io/), and generate a new Spring Boot project with the following steps:
 
@@ -77,7 +77,7 @@ Application is up on localhost 9551 :
 
 ![hello-1](images/img_4.png)
 
-## **Containerizing the Microservices with Docker** {#containerizing-the-microservices-with-docker}
+## **Containerizing the Microservices with Docker** 
 
 1. **Create Dockerfiles:**  
 ![hello-1](images/img_5.png)
@@ -107,7 +107,7 @@ Test services :
 
 ![hello-1](images/img_11.png)
 
-## **Deploying the Application on Kubernetes** {#deploying-the-application-on-kubernetes}
+## **Deploying the Application on Kubernetes** }
 
 **1.Set Up a Kubernetes Cluster:**
 
@@ -130,7 +130,7 @@ $ Kubectl get services
 
 minikube service hello-service \--url
 
-## **Testing and Integration** {#testing-and-integration}
+## **Testing and Integration** 
 
 **Test the Hello and World services** individually to ensure they return the correct responses.
 
