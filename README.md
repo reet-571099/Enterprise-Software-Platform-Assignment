@@ -94,6 +94,8 @@ Test services :
 
 ![][image11]
 
+[Docker hub registry](https://hub.docker.com/repositories/reetkhanchandani)
+
 ## **Deploying the Application on Kubernetes** {#deploying-the-application-on-kubernetes}
 
 **1.Set Up a Kubernetes Cluster:**
