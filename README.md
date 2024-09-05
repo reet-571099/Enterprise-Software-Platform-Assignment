@@ -107,7 +107,7 @@ Test services :
 
 ![hello-1](images/img_11.png)
 
-## **Deploying the Application on Kubernetes** }
+## **Deploying the Application on Kubernetes**
 
 **1.Set Up a Kubernetes Cluster:**
 
