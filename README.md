@@ -116,7 +116,6 @@ minikube start
 **2.Create Kubernetes Manifests:**
 
 * **Deployment and Service for Hello Service:** `hellokube.yaml`  
-![hello-1](images/img_12.png)
 
 **Apply Kubernetes Manifests:** 
 
